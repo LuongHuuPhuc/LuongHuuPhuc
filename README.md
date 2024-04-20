@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ༼ つ ◕_◕ ༽つ Uploading my Embedded project here
+### ༼ つ ◕_◕ ༽つ Uploading my project here
 <!--
 **LuongHuuPhuc/LuongHuuPhuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
